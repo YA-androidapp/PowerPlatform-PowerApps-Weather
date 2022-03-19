@@ -1,0 +1,1223 @@
+{
+   "rss": {
+      "channel": {
+         "title": "1次細分区定義表 - livedoor 天気?\n報",
+         "link": "http://weather.livedoor.com/?r=rss",
+         "description": "livedoor 天気?\n報で使用されている1次細分区の定義表。それぞれの地点のRSSフィードURLと、お天気Webサービスで対応するidが定義されています。",
+         "lastBuildDate": "Mon, 11 May 2020 11:00:00 +0900",
+         "author": "livedoor Weather Team.",
+         "language": "ja",
+         "category": "天気?\n報",
+         "generator": "http://weather.livedoor.com/",
+         "copyright": "(C) LINE Corporation",
+         "image": {
+            "title": "livedoor 天気?\n報",
+            "link": "http://weather.livedoor.com/",
+            "url": "http://weather.livedoor.com/img/cmn/livedoor.gif",
+            "width": "118",
+            "height": "26"
+         },
+         "provider": [
+            {
+               "_name": "（株）ハレックス",
+               "_link": "http://www.halex.co.jp/halexbrain/weather/"
+            },
+            {
+               "_name": "日本気象協会",
+               "_link": "http://tenki.jp/"
+            }
+         ],
+         "source": {
+            "pref": [
+               {
+                  "warn": {
+                     "_title": "警報・注意報",
+                     "_source": "http://weather.livedoor.com/forecast/rss/warn/01a.xml"
+                  },
+                  "city": [
+                     {
+                        "_title": "稚? ",
+                        "_id": "011000",
+                        "_source": "http://weather.livedoor.com/forecast/rss/area/011000.xml"
+                     },
+                     {
+                        "_title": "旭川",
+                        "_id": "012010",
+                        "_source": "http://weather.livedoor.com/forecast/rss/area/012010.xml"
+                     },
+                     {
+                        "_title": "留萌",
+                        "_id": "012020",
+                        "_source": "http://weather.livedoor.com/forecast/rss/area/012020.xml"
+                     }
+                  ],
+                  "_title": "道北"
+               },
+               {
+                  "warn": {
+                     "_title": "警報・注意報",
+                     "_source": "http://weather.livedoor.com/forecast/rss/warn/01c.xml"
+                  },
+                  "city": [
+                     {
+                        "_title": "網走",
+                        "_id": "013010",
+                        "_source": "http://weather.livedoor.com/forecast/rss/area/013010.xml"
+                     },
+                     {
+                        "_title": "北見",
+                        "_id": "013020",
+                        "_source": "http://weather.livedoor.com/forecast/rss/area/013020.xml"
+                     },
+                     {
+                        "_title": "紋別",
+                        "_id": "013030",
+                        "_source": "http://weather.livedoor.com/forecast/rss/area/013030.xml"
+                     },
+                     {
+                        "_title": "根室",
+                        "_id": "014010",
+                        "_source": "http://weather.livedoor.com/forecast/rss/area/014010.xml"
+                     },
+                     {
+                        "_title": "釧路",
+                        "_id": "014020",
+                        "_source": "http://weather.livedoor.com/forecast/rss/area/014020.xml"
+                     },
+                     {
+                        "_title": "帯広",
+                        "_id": "014030",
+                        "_source": "http://weather.livedoor.com/forecast/rss/area/014030.xml"
+                     }
+                  ],
+                  "_title": "道東"
+               },
+               {
+                  "warn": {
+                     "_title": "警報・注意報",
+                     "_source": "http://weather.livedoor.com/forecast/rss/warn/01d.xml"
+                  },
+                  "city": [
+                     {
+                        "_title": "室蘭",
+                        "_id": "015010",
+                        "_source": "http://weather.livedoor.com/forecast/rss/area/015010.xml"
+                     },
+                     {
+                        "_title": "浦河",
+                        "_id": "015020",
+                        "_source": "http://weather.livedoor.com/forecast/rss/area/015020.xml"
+                     }
+                  ],
+                  "_title": "道南"
+               },
+               {
+                  "warn": {
+                     "_title": "警報・注意報",
+                     "_source": "http://weather.livedoor.com/forecast/rss/warn/01b.xml"
+                  },
+                  "city": [
+                     {
+                        "_title": "札幌",
+                        "_id": "016010",
+                        "_source": "http://weather.livedoor.com/forecast/rss/area/016010.xml"
+                     },
+                     {
+                        "_title": "岩見沢",
+                        "_id": "016020",
+                        "_source": "http://weather.livedoor.com/forecast/rss/area/016020.xml"
+                     },
+                     {
+                        "_title": "倶知安",
+                        "_id": "016030",
+                        "_source": "http://weather.livedoor.com/forecast/rss/area/016030.xml"
+                     }
+                  ],
+                  "_title": "道央"
+               },
+               {
+                  "warn": {
+                     "_title": "警報・注意報",
+                     "_source": "http://weather.livedoor.com/forecast/rss/warn/01d.xml"
+                  },
+                  "city": [
+                     {
+                        "_title": "函館",
+                        "_id": "017010",
+                        "_source": "http://weather.livedoor.com/forecast/rss/area/017010.xml"
+                     },
+                     {
+                        "_title": "江差",
+                        "_id": "017020",
+                        "_source": "http://weather.livedoor.com/forecast/rss/area/017020.xml"
+                     }
+                  ],
+                  "_title": "道南"
+               },
+               {
+                  "warn": {
+                     "_title": "警報・注意報",
+                     "_source": "http://weather.livedoor.com/forecast/rss/warn/02.xml"
+                  },
+                  "city": [
+                     {
+                        "_title": "青森",
+                        "_id": "020010",
+                        "_source": "http://weather.livedoor.com/forecast/rss/area/020010.xml"
+                     },
+                     {
+                        "_title": "むつ",
+                        "_id": "020020",
+                        "_source": "http://weather.livedoor.com/forecast/rss/area/020020.xml"
+                     },
+                     {
+                        "_title": "? ?戸",
+                        "_id": "020030",
+                        "_source": "http://weather.livedoor.com/forecast/rss/area/020030.xml"
+                     }
+                  ],
+                  "_title": "青森県"
+               },
+               {
+                  "warn": {
+                     "_title": "警報・注意報",
+                     "_source": "http://weather.livedoor.com/forecast/rss/warn/03.xml"
+                  },
+                  "city": [
+                     {
+                        "_title": "盛岡",
+                        "_id": "030010",
+                        "_source": "http://weather.livedoor.com/forecast/rss/area/030010.xml"
+                     },
+                     {
+                        "_title": "宮古",
+                        "_id": "030020",
+                        "_source": "http://weather.livedoor.com/forecast/rss/area/030020.xml"
+                     },
+                     {
+                        "_title": "大船渡",
+                        "_id": "030030",
+                        "_source": "http://weather.livedoor.com/forecast/rss/area/030030.xml"
+                     }
+                  ],
+                  "_title": "岩手県"
+               },
+               {
+                  "warn": {
+                     "_title": "警報・注意報",
+                     "_source": "http://weather.livedoor.com/forecast/rss/warn/04.xml"
+                  },
+                  "city": [
+                     {
+                        "_title": "仙台",
+                        "_id": "040010",
+                        "_source": "http://weather.livedoor.com/forecast/rss/area/040010.xml"
+                     },
+                     {
+                        "_title": "白石",
+                        "_id": "040020",
+                        "_source": "http://weather.livedoor.com/forecast/rss/area/040020.xml"
+                     }
+                  ],
+                  "_title": "宮城県"
+               },
+               {
+                  "warn": {
+                     "_title": "警報・注意報",
+                     "_source": "http://weather.livedoor.com/forecast/rss/warn/05.xml"
+                  },
+                  "city": [
+                     {
+                        "_title": "秋田",
+                        "_id": "050010",
+                        "_source": "http://weather.livedoor.com/forecast/rss/area/050010.xml"
+                     },
+                     {
+                        "_title": "横手",
+                        "_id": "050020",
+                        "_source": "http://weather.livedoor.com/forecast/rss/area/050020.xml"
+                     }
+                  ],
+                  "_title": "秋田県"
+               },
+               {
+                  "warn": {
+                     "_title": "警報・注意報",
+                     "_source": "http://weather.livedoor.com/forecast/rss/warn/06.xml"
+                  },
+                  "city": [
+                     {
+                        "_title": "山形",
+                        "_id": "060010",
+                        "_source": "http://weather.livedoor.com/forecast/rss/area/060010.xml"
+                     },
+                     {
+                        "_title": "米沢",
+                        "_id": "060020",
+                        "_source": "http://weather.livedoor.com/forecast/rss/area/060020.xml"
+                     },
+                     {
+                        "_title": "? ?田",
+                        "_id": "060030",
+                        "_source": "http://weather.livedoor.com/forecast/rss/area/060030.xml"
+                     },
+                     {
+                        "_title": "新庄",
+                        "_id": "060040",
+                        "_source": "http://weather.livedoor.com/forecast/rss/area/060040.xml"
+                     }
+                  ],
+                  "_title": "山形県"
+               },
+               {
+                  "warn": {
+                     "_title": "警報・注意報",
+                     "_source": "http://weather.livedoor.com/forecast/rss/warn/07.xml"
+                  },
+                  "city": [
+                     {
+                        "_title": "福島",
+                        "_id": "070010",
+                        "_source": "http://weather.livedoor.com/forecast/rss/area/070010.xml"
+                     },
+                     {
+                        "_title": "小名浜",
+                        "_id": "070020",
+                        "_source": "http://weather.livedoor.com/forecast/rss/area/070020.xml"
+                     },
+                     {
+                        "_title": "若松",
+                        "_id": "070030",
+                        "_source": "http://weather.livedoor.com/forecast/rss/area/070030.xml"
+                     }
+                  ],
+                  "_title": "福島県"
+               },
+               {
+                  "warn": {
+                     "_title": "警報・注意報",
+                     "_source": "http://weather.livedoor.com/forecast/rss/warn/08.xml"
+                  },
+                  "city": [
+                     {
+                        "_title": "水戸",
+                        "_id": "080010",
+                        "_source": "http://weather.livedoor.com/forecast/rss/area/080010.xml"
+                     },
+                     {
+                        "_title": "土浦",
+                        "_id": "080020",
+                        "_source": "http://weather.livedoor.com/forecast/rss/area/080020.xml"
+                     }
+                  ],
+                  "_title": "茨城県"
+               },
+               {
+                  "warn": {
+                     "_title": "警報・注意報",
+                     "_source": "http://weather.livedoor.com/forecast/rss/warn/09.xml"
+                  },
+                  "city": [
+                     {
+                        "_title": "宇都宮",
+                        "_id": "090010",
+                        "_source": "http://weather.livedoor.com/forecast/rss/area/090010.xml"
+                     },
+                     {
+                        "_title": "大田原",
+                        "_id": "090020",
+                        "_source": "http://weather.livedoor.com/forecast/rss/area/090020.xml"
+                     }
+                  ],
+                  "_title": "栃木県"
+               },
+               {
+                  "warn": {
+                     "_title": "警報・注意報",
+                     "_source": "http://weather.livedoor.com/forecast/rss/warn/10.xml"
+                  },
+                  "city": [
+                     {
+                        "_title": "前橋",
+                        "_id": "100010",
+                        "_source": "http://weather.livedoor.com/forecast/rss/area/100010.xml"
+                     },
+                     {
+                        "_title": "みなかみ",
+                        "_id": "100020",
+                        "_source": "http://weather.livedoor.com/forecast/rss/area/100020.xml"
+                     }
+                  ],
+                  "_title": "群馬県"
+               },
+               {
+                  "warn": {
+                     "_title": "警報・注意報",
+                     "_source": "http://weather.livedoor.com/forecast/rss/warn/11.xml"
+                  },
+                  "city": [
+                     {
+                        "_title": "さいたま",
+                        "_id": "110010",
+                        "_source": "http://weather.livedoor.com/forecast/rss/area/110010.xml"
+                     },
+                     {
+                        "_title": "熊谷",
+                        "_id": "110020",
+                        "_source": "http://weather.livedoor.com/forecast/rss/area/110020.xml"
+                     },
+                     {
+                        "_title": "秩父",
+                        "_id": "110030",
+                        "_source": "http://weather.livedoor.com/forecast/rss/area/110030.xml"
+                     }
+                  ],
+                  "_title": "埼玉県"
+               },
+               {
+                  "warn": {
+                     "_title": "警報・注意報",
+                     "_source": "http://weather.livedoor.com/forecast/rss/warn/12.xml"
+                  },
+                  "city": [
+                     {
+                        "_title": "千葉",
+                        "_id": "120010",
+                        "_source": "http://weather.livedoor.com/forecast/rss/area/120010.xml"
+                     },
+                     {
+                        "_title": "銚子",
+                        "_id": "120020",
+                        "_source": "http://weather.livedoor.com/forecast/rss/area/120020.xml"
+                     },
+                     {
+                        "_title": "館山",
+                        "_id": "120030",
+                        "_source": "http://weather.livedoor.com/forecast/rss/area/120030.xml"
+                     }
+                  ],
+                  "_title": "千葉県"
+               },
+               {
+                  "warn": {
+                     "_title": "警報・注意報",
+                     "_source": "http://weather.livedoor.com/forecast/rss/warn/13.xml"
+                  },
+                  "city": [
+                     {
+                        "_title": "東京",
+                        "_id": "130010",
+                        "_source": "http://weather.livedoor.com/forecast/rss/area/130010.xml"
+                     },
+                     {
+                        "_title": "大島",
+                        "_id": "130020",
+                        "_source": "http://weather.livedoor.com/forecast/rss/area/130020.xml"
+                     },
+                     {
+                        "_title": "? ?丈島",
+                        "_id": "130030",
+                        "_source": "http://weather.livedoor.com/forecast/rss/area/130030.xml"
+                     },
+                     {
+                        "_title": "父島",
+                        "_id": "130040",
+                        "_source": "http://weather.livedoor.com/forecast/rss/area/130040.xml"
+                     }
+                  ],
+                  "_title": "東京都"
+               },
+               {
+                  "warn": {
+                     "_title": "警報・注意報",
+                     "_source": "http://weather.livedoor.com/forecast/rss/warn/14.xml"
+                  },
+                  "city": [
+                     {
+                        "_title": "横浜",
+                        "_id": "140010",
+                        "_source": "http://weather.livedoor.com/forecast/rss/area/140010.xml"
+                     },
+                     {
+                        "_title": "小田原",
+                        "_id": "140020",
+                        "_source": "http://weather.livedoor.com/forecast/rss/area/140020.xml"
+                     }
+                  ],
+                  "_title": "神奈川県"
+               },
+               {
+                  "warn": {
+                     "_title": "警報・注意報",
+                     "_source": "http://weather.livedoor.com/forecast/rss/warn/15.xml"
+                  },
+                  "city": [
+                     {
+                        "_title": "新潟",
+                        "_id": "150010",
+                        "_source": "http://weather.livedoor.com/forecast/rss/area/150010.xml"
+                     },
+                     {
+                        "_title": "長岡",
+                        "_id": "150020",
+                        "_source": "http://weather.livedoor.com/forecast/rss/area/150020.xml"
+                     },
+                     {
+                        "_title": "高田",
+                        "_id": "150030",
+                        "_source": "http://weather.livedoor.com/forecast/rss/area/150030.xml"
+                     },
+                     {
+                        "_title": "相川",
+                        "_id": "150040",
+                        "_source": "http://weather.livedoor.com/forecast/rss/area/150040.xml"
+                     }
+                  ],
+                  "_title": "新潟県"
+               },
+               {
+                  "warn": {
+                     "_title": "警報・注意報",
+                     "_source": "http://weather.livedoor.com/forecast/rss/warn/16.xml"
+                  },
+                  "city": [
+                     {
+                        "_title": "富山",
+                        "_id": "160010",
+                        "_source": "http://weather.livedoor.com/forecast/rss/area/160010.xml"
+                     },
+                     {
+                        "_title": "伏木",
+                        "_id": "160020",
+                        "_source": "http://weather.livedoor.com/forecast/rss/area/160020.xml"
+                     }
+                  ],
+                  "_title": "富山県"
+               },
+               {
+                  "warn": {
+                     "_title": "警報・注意報",
+                     "_source": "http://weather.livedoor.com/forecast/rss/warn/17.xml"
+                  },
+                  "city": [
+                     {
+                        "_title": "金沢",
+                        "_id": "170010",
+                        "_source": "http://weather.livedoor.com/forecast/rss/area/170010.xml"
+                     },
+                     {
+                        "_title": "輪島",
+                        "_id": "170020",
+                        "_source": "http://weather.livedoor.com/forecast/rss/area/170020.xml"
+                     }
+                  ],
+                  "_title": "石川県"
+               },
+               {
+                  "warn": {
+                     "_title": "警報・注意報",
+                     "_source": "http://weather.livedoor.com/forecast/rss/warn/18.xml"
+                  },
+                  "city": [
+                     {
+                        "_title": "福井",
+                        "_id": "180010",
+                        "_source": "http://weather.livedoor.com/forecast/rss/area/180010.xml"
+                     },
+                     {
+                        "_title": "敦賀",
+                        "_id": "180020",
+                        "_source": "http://weather.livedoor.com/forecast/rss/area/180020.xml"
+                     }
+                  ],
+                  "_title": "福井県"
+               },
+               {
+                  "warn": {
+                     "_title": "警報・注意報",
+                     "_source": "http://weather.livedoor.com/forecast/rss/warn/19.xml"
+                  },
+                  "city": [
+                     {
+                        "_title": "甲府",
+                        "_id": "190010",
+                        "_source": "http://weather.livedoor.com/forecast/rss/area/190010.xml"
+                     },
+                     {
+                        "_title": "河口湖",
+                        "_id": "190020",
+                        "_source": "http://weather.livedoor.com/forecast/rss/area/190020.xml"
+                     }
+                  ],
+                  "_title": "山梨県"
+               },
+               {
+                  "warn": {
+                     "_title": "警報・注意報",
+                     "_source": "http://weather.livedoor.com/forecast/rss/warn/20.xml"
+                  },
+                  "city": [
+                     {
+                        "_title": "長野",
+                        "_id": "200010",
+                        "_source": "http://weather.livedoor.com/forecast/rss/area/200010.xml"
+                     },
+                     {
+                        "_title": "松本",
+                        "_id": "200020",
+                        "_source": "http://weather.livedoor.com/forecast/rss/area/200020.xml"
+                     },
+                     {
+                        "_title": "飯田",
+                        "_id": "200030",
+                        "_source": "http://weather.livedoor.com/forecast/rss/area/200030.xml"
+                     }
+                  ],
+                  "_title": "長野県"
+               },
+               {
+                  "warn": {
+                     "_title": "警報・注意報",
+                     "_source": "http://weather.livedoor.com/forecast/rss/warn/21.xml"
+                  },
+                  "city": [
+                     {
+                        "_title": "岐阜",
+                        "_id": "210010",
+                        "_source": "http://weather.livedoor.com/forecast/rss/area/210010.xml"
+                     },
+                     {
+                        "_title": "高山",
+                        "_id": "210020",
+                        "_source": "http://weather.livedoor.com/forecast/rss/area/210020.xml"
+                     }
+                  ],
+                  "_title": "岐阜県"
+               },
+               {
+                  "warn": {
+                     "_title": "警報・注意報",
+                     "_source": "http://weather.livedoor.com/forecast/rss/warn/22.xml"
+                  },
+                  "city": [
+                     {
+                        "_title": "静岡",
+                        "_id": "220010",
+                        "_source": "http://weather.livedoor.com/forecast/rss/area/220010.xml"
+                     },
+                     {
+                        "_title": "網代",
+                        "_id": "220020",
+                        "_source": "http://weather.livedoor.com/forecast/rss/area/220020.xml"
+                     },
+                     {
+                        "_title": "三島",
+                        "_id": "220030",
+                        "_source": "http://weather.livedoor.com/forecast/rss/area/220030.xml"
+                     },
+                     {
+                        "_title": "浜松",
+                        "_id": "220040",
+                        "_source": "http://weather.livedoor.com/forecast/rss/area/220040.xml"
+                     }
+                  ],
+                  "_title": "静岡県"
+               },
+               {
+                  "warn": {
+                     "_title": "警報・注意報",
+                     "_source": "http://weather.livedoor.com/forecast/rss/warn/23.xml"
+                  },
+                  "city": [
+                     {
+                        "_title": "名古屋",
+                        "_id": "230010",
+                        "_source": "http://weather.livedoor.com/forecast/rss/area/230010.xml"
+                     },
+                     {
+                        "_title": "豊橋",
+                        "_id": "230020",
+                        "_source": "http://weather.livedoor.com/forecast/rss/area/230020.xml"
+                     }
+                  ],
+                  "_title": "愛知県"
+               },
+               {
+                  "warn": {
+                     "_title": "警報・注意報",
+                     "_source": "http://weather.livedoor.com/forecast/rss/warn/24.xml"
+                  },
+                  "city": [
+                     {
+                        "_title": "津",
+                        "_id": "240010",
+                        "_source": "http://weather.livedoor.com/forecast/rss/area/240010.xml"
+                     },
+                     {
+                        "_title": "尾鷲",
+                        "_id": "240020",
+                        "_source": "http://weather.livedoor.com/forecast/rss/area/240020.xml"
+                     }
+                  ],
+                  "_title": "三重県"
+               },
+               {
+                  "warn": {
+                     "_title": "警報・注意報",
+                     "_source": "http://weather.livedoor.com/forecast/rss/warn/25.xml"
+                  },
+                  "city": [
+                     {
+                        "_title": "大津",
+                        "_id": "250010",
+                        "_source": "http://weather.livedoor.com/forecast/rss/area/250010.xml"
+                     },
+                     {
+                        "_title": "彦根",
+                        "_id": "250020",
+                        "_source": "http://weather.livedoor.com/forecast/rss/area/250020.xml"
+                     }
+                  ],
+                  "_title": "滋賀県"
+               },
+               {
+                  "warn": {
+                     "_title": "警報・注意報",
+                     "_source": "http://weather.livedoor.com/forecast/rss/warn/26.xml"
+                  },
+                  "city": [
+                     {
+                        "_title": "京都",
+                        "_id": "260010",
+                        "_source": "http://weather.livedoor.com/forecast/rss/area/260010.xml"
+                     },
+                     {
+                        "_title": "舞鶴",
+                        "_id": "260020",
+                        "_source": "http://weather.livedoor.com/forecast/rss/area/260020.xml"
+                     }
+                  ],
+                  "_title": "京都府"
+               },
+               {
+                  "warn": {
+                     "_title": "警報・注意報",
+                     "_source": "http://weather.livedoor.com/forecast/rss/warn/27.xml"
+                  },
+                  "city": [
+                     {
+                        "_title": "大阪",
+                        "_id": "270000",
+                        "_source": "http://weather.livedoor.com/forecast/rss/area/270000.xml"
+                     }
+                  ],
+                  "_title": "大阪府"
+               },
+               {
+                  "warn": {
+                     "_title": "警報・注意報",
+                     "_source": "http://weather.livedoor.com/forecast/rss/warn/28.xml"
+                  },
+                  "city": [
+                     {
+                        "_title": "神戸",
+                        "_id": "280010",
+                        "_source": "http://weather.livedoor.com/forecast/rss/area/280010.xml"
+                     },
+                     {
+                        "_title": "豊岡",
+                        "_id": "280020",
+                        "_source": "http://weather.livedoor.com/forecast/rss/area/280020.xml"
+                     }
+                  ],
+                  "_title": "? ?庫県"
+               },
+               {
+                  "warn": {
+                     "_title": "警報・注意報",
+                     "_source": "http://weather.livedoor.com/forecast/rss/warn/29.xml"
+                  },
+                  "city": [
+                     {
+                        "_title": "奈良",
+                        "_id": "290010",
+                        "_source": "http://weather.livedoor.com/forecast/rss/area/290010.xml"
+                     },
+                     {
+                        "_title": "風屋",
+                        "_id": "290020",
+                        "_source": "http://weather.livedoor.com/forecast/rss/area/290020.xml"
+                     }
+                  ],
+                  "_title": "奈良県"
+               },
+               {
+                  "warn": {
+                     "_title": "警報・注意報",
+                     "_source": "http://weather.livedoor.com/forecast/rss/warn/30.xml"
+                  },
+                  "city": [
+                     {
+                        "_title": "和歌山",
+                        "_id": "300010",
+                        "_source": "http://weather.livedoor.com/forecast/rss/area/300010.xml"
+                     },
+                     {
+                        "_title": "潮岬",
+                        "_id": "300020",
+                        "_source": "http://weather.livedoor.com/forecast/rss/area/300020.xml"
+                     }
+                  ],
+                  "_title": "和歌山県"
+               },
+               {
+                  "warn": {
+                     "_title": "警報・注意報",
+                     "_source": "http://weather.livedoor.com/forecast/rss/warn/31.xml"
+                  },
+                  "city": [
+                     {
+                        "_title": "鳥取",
+                        "_id": "310010",
+                        "_source": "http://weather.livedoor.com/forecast/rss/area/310010.xml"
+                     },
+                     {
+                        "_title": "米子",
+                        "_id": "310020",
+                        "_source": "http://weather.livedoor.com/forecast/rss/area/310020.xml"
+                     }
+                  ],
+                  "_title": "鳥取県"
+               },
+               {
+                  "warn": {
+                     "_title": "警報・注意報",
+                     "_source": "http://weather.livedoor.com/forecast/rss/warn/32.xml"
+                  },
+                  "city": [
+                     {
+                        "_title": "松江",
+                        "_id": "320010",
+                        "_source": "http://weather.livedoor.com/forecast/rss/area/320010.xml"
+                     },
+                     {
+                        "_title": "浜田",
+                        "_id": "320020",
+                        "_source": "http://weather.livedoor.com/forecast/rss/area/320020.xml"
+                     },
+                     {
+                        "_title": "西郷",
+                        "_id": "320030",
+                        "_source": "http://weather.livedoor.com/forecast/rss/area/320030.xml"
+                     }
+                  ],
+                  "_title": "島根県"
+               },
+               {
+                  "warn": {
+                     "_title": "警報・注意報",
+                     "_source": "http://weather.livedoor.com/forecast/rss/warn/33.xml"
+                  },
+                  "city": [
+                     {
+                        "_title": "岡山",
+                        "_id": "330010",
+                        "_source": "http://weather.livedoor.com/forecast/rss/area/330010.xml"
+                     },
+                     {
+                        "_title": "津山",
+                        "_id": "330020",
+                        "_source": "http://weather.livedoor.com/forecast/rss/area/330020.xml"
+                     }
+                  ],
+                  "_title": "岡山県"
+               },
+               {
+                  "warn": {
+                     "_title": "警報・注意報",
+                     "_source": "http://weather.livedoor.com/forecast/rss/warn/34.xml"
+                  },
+                  "city": [
+                     {
+                        "_title": "広島",
+                        "_id": "340010",
+                        "_source": "http://weather.livedoor.com/forecast/rss/area/340010.xml"
+                     },
+                     {
+                        "_title": "庄原",
+                        "_id": "340020",
+                        "_source": "http://weather.livedoor.com/forecast/rss/area/340020.xml"
+                     }
+                  ],
+                  "_title": "広島県"
+               },
+               {
+                  "warn": {
+                     "_title": "警報・注意報",
+                     "_source": "http://weather.livedoor.com/forecast/rss/warn/35.xml"
+                  },
+                  "city": [
+                     {
+                        "_title": "下関",
+                        "_id": "350010",
+                        "_source": "http://weather.livedoor.com/forecast/rss/area/350010.xml"
+                     },
+                     {
+                        "_title": "山口",
+                        "_id": "350020",
+                        "_source": "http://weather.livedoor.com/forecast/rss/area/350020.xml"
+                     },
+                     {
+                        "_title": "柳井",
+                        "_id": "350030",
+                        "_source": "http://weather.livedoor.com/forecast/rss/area/350030.xml"
+                     },
+                     {
+                        "_title": "萩",
+                        "_id": "350040",
+                        "_source": "http://weather.livedoor.com/forecast/rss/area/350040.xml"
+                     }
+                  ],
+                  "_title": "山口県"
+               },
+               {
+                  "warn": {
+                     "_title": "警報・注意報",
+                     "_source": "http://weather.livedoor.com/forecast/rss/warn/36.xml"
+                  },
+                  "city": [
+                     {
+                        "_title": "徳島",
+                        "_id": "360010",
+                        "_source": "http://weather.livedoor.com/forecast/rss/area/360010.xml"
+                     },
+                     {
+                        "_title": "日和佐",
+                        "_id": "360020",
+                        "_source": "http://weather.livedoor.com/forecast/rss/area/360020.xml"
+                     }
+                  ],
+                  "_title": "徳島県"
+               },
+               {
+                  "warn": {
+                     "_title": "警報・注意報",
+                     "_source": "http://weather.livedoor.com/forecast/rss/warn/37.xml"
+                  },
+                  "city": [
+                     {
+                        "_title": "高松",
+                        "_id": "370000",
+                        "_source": "http://weather.livedoor.com/forecast/rss/area/370000.xml"
+                     }
+                  ],
+                  "_title": "香川県"
+               },
+               {
+                  "warn": {
+                     "_title": "警報・注意報",
+                     "_source": "http://weather.livedoor.com/forecast/rss/warn/38.xml"
+                  },
+                  "city": [
+                     {
+                        "_title": "松山",
+                        "_id": "380010",
+                        "_source": "http://weather.livedoor.com/forecast/rss/area/380010.xml"
+                     },
+                     {
+                        "_title": "新? 浜",
+                        "_id": "380020",
+                        "_source": "http://weather.livedoor.com/forecast/rss/area/380020.xml"
+                     },
+                     {
+                        "_title": "宇和島",
+                        "_id": "380030",
+                        "_source": "http://weather.livedoor.com/forecast/rss/area/380030.xml"
+                     }
+                  ],
+                  "_title": "愛媛県"
+               },
+               {
+                  "warn": {
+                     "_title": "警報・注意報",
+                     "_source": "http://weather.livedoor.com/forecast/rss/warn/39.xml"
+                  },
+                  "city": [
+                     {
+                        "_title": "高知",
+                        "_id": "390010",
+                        "_source": "http://weather.livedoor.com/forecast/rss/area/390010.xml"
+                     },
+                     {
+                        "_title": "室戸岬",
+                        "_id": "390020",
+                        "_source": "http://weather.livedoor.com/forecast/rss/area/390020.xml"
+                     },
+                     {
+                        "_title": "? 水",
+                        "_id": "390030",
+                        "_source": "http://weather.livedoor.com/forecast/rss/area/390030.xml"
+                     }
+                  ],
+                  "_title": "高知県"
+               },
+               {
+                  "warn": {
+                     "_title": "警報・注意報",
+                     "_source": "http://weather.livedoor.com/forecast/rss/warn/40.xml"
+                  },
+                  "city": [
+                     {
+                        "_title": "福岡",
+                        "_id": "400010",
+                        "_source": "http://weather.livedoor.com/forecast/rss/area/400010.xml"
+                     },
+                     {
+                        "_title": "? ?幡",
+                        "_id": "400020",
+                        "_source": "http://weather.livedoor.com/forecast/rss/area/400020.xml"
+                     },
+                     {
+                        "_title": "飯塚",
+                        "_id": "400030",
+                        "_source": "http://weather.livedoor.com/forecast/rss/area/400030.xml"
+                     },
+                     {
+                        "_title": "? 留米",
+                        "_id": "400040",
+                        "_source": "http://weather.livedoor.com/forecast/rss/area/400040.xml"
+                     }
+                  ],
+                  "_title": "福岡県"
+               },
+               {
+                  "warn": {
+                     "_title": "警報・注意報",
+                     "_source": "http://weather.livedoor.com/forecast/rss/warn/41.xml"
+                  },
+                  "city": [
+                     {
+                        "_title": "佐賀",
+                        "_id": "410010",
+                        "_source": "http://weather.livedoor.com/forecast/rss/area/410010.xml"
+                     },
+                     {
+                        "_title": "伊万里",
+                        "_id": "410020",
+                        "_source": "http://weather.livedoor.com/forecast/rss/area/410020.xml"
+                     }
+                  ],
+                  "_title": "佐賀県"
+               },
+               {
+                  "warn": {
+                     "_title": "警報・注意報",
+                     "_source": "http://weather.livedoor.com/forecast/rss/warn/42.xml"
+                  },
+                  "city": [
+                     {
+                        "_title": "長崎",
+                        "_id": "420010",
+                        "_source": "http://weather.livedoor.com/forecast/rss/area/420010.xml"
+                     },
+                     {
+                        "_title": "佐世保",
+                        "_id": "420020",
+                        "_source": "http://weather.livedoor.com/forecast/rss/area/420020.xml"
+                     },
+                     {
+                        "_title": "厳原",
+                        "_id": "420030",
+                        "_source": "http://weather.livedoor.com/forecast/rss/area/420030.xml"
+                     },
+                     {
+                        "_title": "福江",
+                        "_id": "420040",
+                        "_source": "http://weather.livedoor.com/forecast/rss/area/420040.xml"
+                     }
+                  ],
+                  "_title": "長崎県"
+               },
+               {
+                  "warn": {
+                     "_title": "警報・注意報",
+                     "_source": "http://weather.livedoor.com/forecast/rss/warn/43.xml"
+                  },
+                  "city": [
+                     {
+                        "_title": "熊本",
+                        "_id": "430010",
+                        "_source": "http://weather.livedoor.com/forecast/rss/area/430010.xml"
+                     },
+                     {
+                        "_title": "阿蘇乙姫",
+                        "_id": "430020",
+                        "_source": "http://weather.livedoor.com/forecast/rss/area/430020.xml"
+                     },
+                     {
+                        "_title": "牛深",
+                        "_id": "430030",
+                        "_source": "http://weather.livedoor.com/forecast/rss/area/430030.xml"
+                     },
+                     {
+                        "_title": "人吉",
+                        "_id": "430040",
+                        "_source": "http://weather.livedoor.com/forecast/rss/area/430040.xml"
+                     }
+                  ],
+                  "_title": "熊本県"
+               },
+               {
+                  "warn": {
+                     "_title": "警報・注意報",
+                     "_source": "http://weather.livedoor.com/forecast/rss/warn/44.xml"
+                  },
+                  "city": [
+                     {
+                        "_title": "大分",
+                        "_id": "440010",
+                        "_source": "http://weather.livedoor.com/forecast/rss/area/440010.xml"
+                     },
+                     {
+                        "_title": "中津",
+                        "_id": "440020",
+                        "_source": "http://weather.livedoor.com/forecast/rss/area/440020.xml"
+                     },
+                     {
+                        "_title": "日田",
+                        "_id": "440030",
+                        "_source": "http://weather.livedoor.com/forecast/rss/area/440030.xml"
+                     },
+                     {
+                        "_title": "佐伯",
+                        "_id": "440040",
+                        "_source": "http://weather.livedoor.com/forecast/rss/area/440040.xml"
+                     }
+                  ],
+                  "_title": "大分県"
+               },
+               {
+                  "warn": {
+                     "_title": "警報・注意報",
+                     "_source": "http://weather.livedoor.com/forecast/rss/warn/45.xml"
+                  },
+                  "city": [
+                     {
+                        "_title": "宮崎",
+                        "_id": "450010",
+                        "_source": "http://weather.livedoor.com/forecast/rss/area/450010.xml"
+                     },
+                     {
+                        "_title": "延岡",
+                        "_id": "450020",
+                        "_source": "http://weather.livedoor.com/forecast/rss/area/450020.xml"
+                     },
+                     {
+                        "_title": "都城",
+                        "_id": "450030",
+                        "_source": "http://weather.livedoor.com/forecast/rss/area/450030.xml"
+                     },
+                     {
+                        "_title": "高千穂",
+                        "_id": "450040",
+                        "_source": "http://weather.livedoor.com/forecast/rss/area/450040.xml"
+                     }
+                  ],
+                  "_title": "宮崎県"
+               },
+               {
+                  "warn": {
+                     "_title": "警報・注意報",
+                     "_source": "http://weather.livedoor.com/forecast/rss/warn/46.xml"
+                  },
+                  "city": [
+                     {
+                        "_title": "鹿? ?島",
+                        "_id": "460010",
+                        "_source": "http://weather.livedoor.com/forecast/rss/area/460010.xml"
+                     },
+                     {
+                        "_title": "鹿屋",
+                        "_id": "460020",
+                        "_source": "http://weather.livedoor.com/forecast/rss/area/460020.xml"
+                     },
+                     {
+                        "_title": "種子島",
+                        "_id": "460030",
+                        "_source": "http://weather.livedoor.com/forecast/rss/area/460030.xml"
+                     },
+                     {
+                        "_title": "名瀬",
+                        "_id": "460040",
+                        "_source": "http://weather.livedoor.com/forecast/rss/area/460040.xml"
+                     }
+                  ],
+                  "_title": "鹿? ?島県"
+               },
+               {
+                  "warn": {
+                     "_title": "警報・注意報",
+                     "_source": "http://weather.livedoor.com/forecast/rss/warn/47.xml"
+                  },
+                  "city": [
+                     {
+                        "_title": "那覇",
+                        "_id": "471010",
+                        "_source": "http://weather.livedoor.com/forecast/rss/area/471010.xml"
+                     },
+                     {
+                        "_title": "名護",
+                        "_id": "471020",
+                        "_source": "http://weather.livedoor.com/forecast/rss/area/471020.xml"
+                     },
+                     {
+                        "_title": "? 米島",
+                        "_id": "471030",
+                        "_source": "http://weather.livedoor.com/forecast/rss/area/471030.xml"
+                     },
+                     {
+                        "_title": "南大東",
+                        "_id": "472000",
+                        "_source": "http://weather.livedoor.com/forecast/rss/area/472000.xml"
+                     },
+                     {
+                        "_title": "宮古島",
+                        "_id": "473000",
+                        "_source": "http://weather.livedoor.com/forecast/rss/area/473000.xml"
+                     },
+                     {
+                        "_title": "石垣島",
+                        "_id": "474010",
+                        "_source": "http://weather.livedoor.com/forecast/rss/area/474010.xml"
+                     },
+                     {
+                        "_title": "与那国島",
+                        "_id": "474020",
+                        "_source": "http://weather.livedoor.com/forecast/rss/area/474020.xml"
+                     }
+                  ],
+                  "_title": "沖縄県"
+               }
+            ],
+            "_title": "? ?国",
+            "_link": "http://weather.livedoor.com/forecast/rss/index.xml"
+         },
+         "item": {
+            "title": "[ PR ] ブログでお天気を簡単ゲット！",
+            "link": "http://weather.livedoor.com/weather_hacks/plugin.html?pref=01a",
+            "category": "PR",
+            "description": "livedoor 天気?\n報「Weather Hacks」では一般のブロガーの皆さん向けにブログでお天気を表示できる、お天気プラグインを?\n?開しました。使い方はとってもカンタン！手順に沿って作成したHTMLソースを自分のブログに貼り付けるだけです！",
+            "image": {
+               "title": "お天気プラグイン - livedoor 天気?\n報",
+               "link": "http://weather.livedoor.com/weather_hacks/plugin.html?pref=01a",
+               "url": "http://weather.livedoor.com/img/weather_hacks/news_title.gif",
+               "width": "151",
+               "height": "50"
+            },
+            "pubDate": "Mon, 11 May 2020 11:00:00 +0900"
+         }
+      },
+      "_xmlns:ldWeather": "http://weather.livedoor.com/%5C/ns/rss/2.0",
+      "_version": "2.0"
+   }
+}
